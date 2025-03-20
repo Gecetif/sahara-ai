@@ -9,7 +9,7 @@
 Run the command:
 
 ```bash
-git clone https://github.com/
+git clone https://github.com/Gecetif/sahara-ai
 ```
 
 ```bash
