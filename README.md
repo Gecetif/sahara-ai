@@ -13,7 +13,7 @@ git clone https://github.com/Gecetif/sahara-ai
 ```
 
 ```bash
-cd SAHARA-AI-SOFT
+cd sahara-ai
 ```
 
 ```pip install -r requirements.txt```
